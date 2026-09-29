@@ -1,0 +1,5 @@
+.DS_Store
+.curves_bin
+.gamma_boost_bin
+Backup/
+__pycache__/
